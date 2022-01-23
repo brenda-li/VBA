@@ -9,6 +9,7 @@ You are going to be wealthy after graduating from business school; thus, you wan
 1. At the beginning of the first year, your savings balance should always be $0.
 2. Any contributions in a given year are assumed to be made at the end of the year. Thus, there are no investment earnings for the year in which monies are contributed.
 3. The following tax rates apply to investment income you earn depending on salary.
+
 | Salary | Federal Tax Rate | State Tax Rate
 | ----------- | ----------- | ----------- |
 | =< $30,000 | 15% | 6% |
