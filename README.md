@@ -25,11 +25,11 @@ Basic requirements of the system:
 
 ### Requirements
 1. Your system should allow the user to vary the input variable values:
-a) Current age (Default: 35)
-b) Current salary (Default: $135,000)
-c) Percent of salary (before taxes) that will be contributed to taxable accounts per year (Default: 15%)
-d) Expected annual salary growth rate (Minimum: 0%, Maximum: 10%, Default: 4% per year)
-e) Expected annual investment return rate (Minimum: -10%, Maximum: 40%, Default: 4% per year)
+  a) Current age (Default: 35)
+  b) Current salary (Default: $135,000)
+  c) Percent of salary (before taxes) that will be contributed to taxable accounts per year (Default: 15%)
+  d) Expected annual salary growth rate (Minimum: 0%, Maximum: 10%, Default: 4% per year)
+  e) Expected annual investment return rate (Minimum: -10%, Maximum: 40%, Default: 4% per year)
 
 2. The salary brackets (=< $30,000, $30,000.01 - $70,000, etc.) do not have to change, but the Federal and State Tax rates applied to those brackets should be set up to allow change.
 3. When the file is opened, there are no gridlines.
