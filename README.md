@@ -1,4 +1,4 @@
-# VBA
+# VBA Project; Decision Support Systems
 Excel Macros Projects
 
 ## [1] One Million Savings
@@ -53,7 +53,7 @@ If the user selects the CheckBox to see the savings details and clicks the comma
 If the user does not select the CheckBox, when s/he clicks the command button, the program should  still show the original MessageBox from Assignment 1.
 
 3. The user should have the option to allow the investments to grow tax-free. Two option buttons should  be used to allow the user to choose taxable vs. tax-free growth.
-NOTE: If you choose to implement this  by zeroing out the tax rates in the provided table to implement the tax-free version, you must provide  a way to return the default values to the table for future use of the file/code.
+
 4. Since it is unrealistic that you would realize the same investment return rate each year, the model  should be able to randomly simulate an investment return rate for each year (think Management  Science). The simulated value should be sampled from a triangular distribution with the most likely,  minimum, and maximum values specified by scrollbars in the user interface. The code for generating  random numbers according to the triangular distribution is provided in the appendix and will be  discussed in class.
 5. A set of option buttons should allow the user to choose whether to use the most likely investment  return rate for the duration of the investment period or to use the triangular distribution to generate a  random investment return rate for each year according to the specified distribution.
 6. The user should be able to use scroll bars to adjust all the parameters. Use the following ScrollBar  specifications:
